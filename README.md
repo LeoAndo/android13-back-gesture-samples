@@ -27,3 +27,4 @@ OS13で、戻るナビゲーションを使いたい場合は開発者オプシ�
 https://github.com/LeoAndo/development-conference-memo/issues/161<br>
 https://github.com/LeoAndo/development-conference-memo/issues/81<br>
 https://developer.android.com/guide/navigation/predictive-back-gesture?hl=ja<br>
+https://codelabs.developers.google.com/handling-gesture-back-navigation?hl=ja#0<br>
