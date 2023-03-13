@@ -33,7 +33,7 @@ https://github.com/google/accompanist/blob/7a293b358c293d398a9b95185b41ef3cc1136
     }
 ```
 
-`com.google.accompanist.web.WebView`の使い方は以下のスニペットコードを参考にする。<br>
+`com.google.accompanist.web.WebView`の使い方は以下のサンプルコードを参考にする。<br>
 https://github.com/google/accompanist/blob/a0ebf63b2bb5d681fd5c2c6bb6c2e97022b1b296/sample/src/main/java/com/google/accompanist/sample/webview/BasicWebViewSample.kt
 
 # Capture OS: 13
